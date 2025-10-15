@@ -1,4 +1,4 @@
-# bitcask - Disk based Log Structured Hash Table Store
+# FileDB - Disk based Log Structured Hash Table Store
 This is the golang implementation of Riak's [bitcask](https://riak.com/assets/bitcask-intro.pdf) paper. This project is for *educational* purposes only. The idea is to
 provide a reference implementation of bitcask to help anyone interested in storage engines understand the basics of building a persistent key-value storage engine.
 
